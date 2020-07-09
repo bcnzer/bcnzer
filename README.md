@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## I'm Ben Chartrand
+
+🔭 I’m currently working on a project called Junior Techbots. I might eventually open-source it
+
+🖊 My blog is at [https://liftcodeplay.com](https://liftcodeplay.com)
+
+📫 You can read me on Twitter at [https://twitter.com/bcnzer](https://twitter.com/bcnzer)
+
 <!--
 **bcnzer/bcnzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
