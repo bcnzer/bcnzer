@@ -8,6 +8,8 @@
 
 📫 You can read me on Twitter at [https://twitter.com/bcnzer](https://twitter.com/bcnzer)
 
+![Suze Shardlow giving a tech talk at Ticketmaster UK](https://github.com/bcnzer/bcnzer.github.io/???)
+
 <!--
 **bcnzer/bcnzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
