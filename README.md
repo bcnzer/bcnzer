@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm Ben Chartrand
+### Hi there 👋 I'm Ben Chartrand
 
 ![Junior Techbots](https://github.com/bcnzer/bcnzer/blob/bcnzer-patch-1/robots%20small.png?raw=true)
 
