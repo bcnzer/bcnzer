@@ -2,13 +2,13 @@
 
 ## I'm Ben Chartrand
 
+![Junior Techbots](https://github.com/bcnzer/bcnzer/blob/bcnzer-patch-1/robots%20small.png?raw=true)
+
 🔭 I’m currently working on a project called Junior Techbots. I might eventually open-source it
 
 🖊 My blog is at [https://liftcodeplay.com](https://liftcodeplay.com)
 
 📫 You can read me on Twitter at [https://twitter.com/bcnzer](https://twitter.com/bcnzer)
-
-![Junior Techbots](https://github.com/bcnzer/bcnzer/blob/bcnzer-patch-1/robots%20small.png?raw=true)
 
 <!--
 **bcnzer/bcnzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
