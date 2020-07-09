@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ben Chartrand
 
-![Junior Techbots](https://github.com/bcnzer/bcnzer/blob/bcnzer-patch-1/robots%20small.png?raw=true)
+![Junior Techbots](https://github.com/bcnzer/bcnzer/blob/master/robots%20small.png?raw=true)
 
 🔭 I’m currently working on a project called Junior Techbots. I might eventually open-source it, eventually. The above picture is from the app
 
