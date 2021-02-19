@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Ben Chartrand
 
-![Junior Techbots](https://github.com/bcnzer/bcnzer/blob/master/robots%20small.png?raw=true)
+![Aotea Valley](https://github.com/bcnzer/makecode-arcade-aotea-valley/blob/master/aoteavalley.png?raw=true)
 
-🔭 I’m currently working on a project called Junior Techbots. I might eventually open-source it, eventually. The above picture is from the app
+🔭 I’m currently working on a project called Aotea Valley. It's written using MakeCode Arcade.
 
 🖊 My blog is at [https://liftcodeplay.com](https://liftcodeplay.com)
 
