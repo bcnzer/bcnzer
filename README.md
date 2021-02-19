@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ben Chartrand
 
-![Aotea Valley](https://github.com/bcnzer/makecode-arcade-aotea-valley/blob/master/aoteavalley.png?raw=true)
+![Aotea Valley](https://raw.githubusercontent.com/bcnzer/makecode-arcade-aotea-valley/master/aoteavalley.png?token=ADH5U5HTXTONQ7A3TQB4C6LAF5R7Y)
 
 🔭 I’m currently working on a project called Aotea Valley. It's written using MakeCode Arcade.
 
