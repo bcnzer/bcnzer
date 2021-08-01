@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Ben Chartrand
 
-![Aotea Valley](https://github.com/bcnzer/makecode-arcade-aotea-valley/blob/master/aoteavalley.png?raw=true)
-
-🔭 I’m currently working on a project called Aotea Valley. It's written using MakeCode Arcade.
-
 🖊 My blog is at [https://liftcodeplay.com](https://liftcodeplay.com)
 
 📫 You can reach me on Twitter at [https://twitter.com/bcnzer](https://twitter.com/bcnzer)
