@@ -2,8 +2,6 @@
 
 🖊 My blog is at [https://liftcodeplay.com](https://liftcodeplay.com)
 
-📫 You can reach me on Twitter at [https://twitter.com/bcnzer](https://twitter.com/bcnzer)
-
 <!--
 **bcnzer/bcnzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
